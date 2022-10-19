@@ -1,5 +1,8 @@
 # Générateur de murs de lampe
 
+**La librairie Hemesh doit être installé pour ce projet**
+---> https://github.com/wblut/HE_Mesh
+
 Cette esquisse est un générateur de plans de murs de lampes de chevets de type "lampe fromage" représentant une image donné par l'utilisateur pouvant être lu par une machine à découpe laser.
 
 --
